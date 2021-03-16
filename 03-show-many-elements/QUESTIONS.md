@@ -6,4 +6,4 @@
 
 > How did you go about hiding elements initially?
 
-Your reply here...
+Es nomainīju style atribūtu katram elementam iekš index.html faila - style = "display: none"
